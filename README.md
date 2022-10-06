@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahultesla
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in building tools 
+- 🌱 I’m currently learning algorithms and data structures
+- 💞️ I’m looking to collaborate on interesting open source projects
 - 📫 How to reach me (rahultesla_ on twitter)
 
 <!---
